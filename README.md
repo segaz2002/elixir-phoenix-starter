@@ -1,4 +1,6 @@
-# Coinjackpot
+# Phoenix starter
+
+It comes with a simple chat application over phoenix channels. 
 
 To start your Phoenix server:
 
